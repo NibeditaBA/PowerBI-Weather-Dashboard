@@ -4,7 +4,10 @@ A Power BI report visualizing a 7-day weather forecast with AQI data, sunrise/su
 ---
 ## 📍 Covered Cities
 - Kolkata
-- Nashik
+- ![Uploading Kolkata_Report.png…]()
+- Kannur
+- ![Uploading Kannur_Report.png…]()
+
 - Leh
 - (Extendable to other cities via API)
 ---
